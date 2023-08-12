@@ -1,0 +1,4 @@
+* intially for routes in next pages folder was uses wherein each js file in a folder will be a page 
+    but in the latest version we create a folder inside the app directory and after that we create a page.js file which will be a page 
+
+    for ex in the app --> about(folder) ---> page.js = /about
