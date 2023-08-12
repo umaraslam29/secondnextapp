@@ -2,3 +2,8 @@
     but in the latest version we create a folder inside the app directory and after that we create a page.js file which will be a page 
 
     for ex in the app --> about(folder) ---> page.js = /about
+
+
+* for layouts in the previous version we had a _app.js file which will include headers and navs
+    in the latest version we have a file called layout.js we can include components in there to reflect in all the pages also we can incllude 
+    layout.js in seperate folders to be reflected in the seperate routes    
